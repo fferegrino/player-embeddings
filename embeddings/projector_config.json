@@ -3,6 +3,12 @@
     {
       "tensorName": "FC25",
       "tensorShape": [17737, 43],
+      "tensorPath": "embeddings/fc25.sphereized.embeddings.tsv",
+      "metadataPath": "embeddings/fc25.metadata.tsv"
+    },
+    {
+      "tensorName": "FC25 (non-sphereized)",
+      "tensorShape": [17737, 43],
       "tensorPath": "embeddings/fc25.embeddings.tsv",
       "metadataPath": "embeddings/fc25.metadata.tsv"
     }
